@@ -47,3 +47,8 @@ vlad@home:~/Documents/Netology/DevOps/dz_№46/sandbox$ curl http://localhost:90
 ### Задание №4
 #### Метрика утилизации места на диске:
 ![chronograf](./screen/disk_util.png) 
+
+
+### Задание №5
+#### Список метрик докера:
+![chronograf](./screen/telegraf_docker.png) 
